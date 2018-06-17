@@ -1,3 +1,3 @@
 # hello-world
-Sample app for tutorial
-Jest to próbna prac na github, na potrzeby szkolenia, które rozpocznie się 25 czerwca 2018r.
+Sample app for tutorial <br>
+Jest to próbna praca na github, na potrzeby szkolenia, które rozpocznie się 25 czerwca 2018r.
